@@ -1,21 +1,21 @@
 {
-  "name": "gulp-starter",
+  "name": "breath",
   "version": "1.0.0",
-  "description": "A gulp boilerplate",
+  "description": "breath in a box",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Henkedanne/gulp-starter.git"
+    "url": "git+https://github.com/Henkedanne/breath.git"
   },
   "author": "Henrik Danielsson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Henkedanne/gulp-starter/issues"
+    "url": "https://github.com/Henkedanne/breath/issues"
   },
-  "homepage": "https://github.com/Henkedanne/gulp-starter#readme",
+  "homepage": "https://github.com/Henkedanne/breath#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
